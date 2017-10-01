@@ -4,51 +4,43 @@
 favicon: /favicon.png
 
 # author headimg
-headimg: http://oct8d1mqf.bkt.clouddn.com/2016-10-17-15%3A42%3A28.jpg
+headimg: https://lh3.googleusercontent.com/mAb3j7XbbPX41UVXTqZHzZpT32y2LqE-lCHsLhF46KfaNj6YsOlwokpdk9fuCDJZ5oxZl_DOnng1nlO-J3li6t5kvnHDM3gn-210NailpdNOV1R_J2Kyr64UHs_YfzVtnhuedlUL_65hqWjwEwcOKXkcvVs_dLmbywiQw9NDRQWB4FnV5zAKrvJVkKedcJdVS1UHnjARyy0s-gtPORcqL8oDFvH2r2TAKZ5om5sMEBCsRnmgWWJKezcE1bDtQj54eOl7uH87Tyv8TQOD1BONEBz7MWW7qvYV5JMknl_LHMvMaW0S4u-y6eaE_f97I7pO2eTmAASD0ClQhNwQF384YrZWYNXjr4rJqCs6JLJ4eqxipygXVwH2IDXdo8dcNoPVdHuFUlRohGpdLgz0ySnynwXHad7Gs2_XE4mmEmGmIBb2qi9Ro7TuIhckN_WR4PMcq1-OEX32y3AMrxsLPMS_YnlGAjWDW_kcULjRzLnXzN6AKLUBll_BXLtklX2Mlb2DYxb4VU8x-6WYGCA5TzK2_kQS9_73L2xMpcSLiKBi6BTdPxdFGjkbrN2oIkvR691K-20Xe3oua_8YzbLealeM5TJL0ZpAEMLOS_zUu3Fj3pwjTsY8hzFCqeqgkqRClv1dRq4wHNDyM8GDh-7xaR-yS7yBt7ks8wrV0Fd5=s150-no
 
 # search
-search: 
+search:
     enable: true
     placeholder: Enter Key...
 
 # sidebar
-sidebar: 
+sidebar:
   enable: true
   menus:
     -
-      name: Weibo
-      link: http://weibo.com/yumemor/
+      name: github
+      link: https://github.com/kywk/
+      target: _blank
+    -
+      name: facebook
+      link: https://www.facebook.com/kywk.tw
       target: _blank
 
 # count(统计)
 count:
-  enable: true
+  enable: false
 
 # comments
 comments:
-  duoshuo_username:  yumemor
-  #disqus_username: yumemor
+  disqus_username: kywk
 
-# accounts support weibo/github/zhihu/twitter/douban 
+# accounts support weibo/github/zhihu/twitter/douban
 # display to former three
-social: 
-  -
-    name: weibo
-    link: http://weibo.com/yumemor/
+social:
   -
     name: github
-    link: https://github.com/yumemor
-  -
-    name: zhihu
-    link: https://www.zhihu.com/people/yumemor
+    link: https://github.com/kywk
 #  -
 #    name: twitter
-#    link: 
+#    link:
 #  -
 #    name: douban
-#    link: 
-
-
-
-
-
+#    link:
